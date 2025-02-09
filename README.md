@@ -20,5 +20,5 @@
 ## 🚀 Setup Instructions  
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/stress-analysis-social-media.git
+   git clone https://github.com/Pavitr-swain/stress-analysis-social-media.git
    cd stress-analysis-social-media
