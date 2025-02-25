@@ -2,7 +2,7 @@
 
  A machine learning project that detects stress levels in social media posts (Twitter &amp; Reddit) using NLP, sentiment analysis, and machine learning models.  
 
-📌 **Tech Stack**  
+📌 **Tech Stack** 
 - Python, Sklearn, NLTK, TF-IDF 
 - Sentiment Analysis, Logistic Regression, Random Forest  
 - Data Visualization with Matplotlib & Seaborn  
