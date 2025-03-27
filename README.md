@@ -5,7 +5,7 @@
 📌 **Tech Stack** 
 - Python, Sklearn, NLTK, TF-IDF
 - Sentiment Analysis, Logistic Regression, Random Forest  
-- Data Visualization with Matplotlib & Seaborn  
+- Data Visualization with Matplotlib & Seaborn 
 
 📌 **Dataset**  
 - **Kaggle Stress Dataset**  
