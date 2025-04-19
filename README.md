@@ -8,7 +8,7 @@
 - Data Visualization with Matplotlib & Seaborn 
 
 📌 **Dataset**  
-- **Kaggle Stress Dataset**  
+- **Kaggle Stress Dataset** 
 
 ## 📊 Results  
 | Model | Accuracy |
