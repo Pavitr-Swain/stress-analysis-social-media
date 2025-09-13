@@ -9,7 +9,7 @@
 
 📌 **Dataset**  
 - **Kaggle Stress Dataset** 
-## 📊 Results  
+## 📊 Results 
 | Model | Accuracy |
 |-------|---------|
 | Logistic Regression | 82% |
